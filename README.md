@@ -53,4 +53,17 @@ The work focuses on building and evaluating models while addressing key challeng
 
 ---
 
-## Project Structure
+## Project Structure 
+ -data_prep/models/notebooks/results
+ 
+---
+
+## Notes
+
+This project is intended for exploratory and research purposes and does not represent a diagnostic tool.
+
+---
+
+## Repository
+
+🔗 https://github.com/makaylam-codefolio/eeg-schizophrenia-classification
